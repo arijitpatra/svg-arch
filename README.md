@@ -1,4 +1,4 @@
-# svg arch project
+# svg text wrap/arch project
 
 ![svg arch GIF](public/ArchAnimated.gif)
 
